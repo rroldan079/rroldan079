@@ -10,9 +10,11 @@ Interests:
 - Cybersecurity
 - Robotics
 - MLOps
+- Embedded Systems
+- Model Optimization via GPU acceleration
 
 Technologies:
-Python • PyTorch • TensorFlow • OpenCV • Linux • Docker • ROS • OpenCV • Linux • Docker • ROS
+Python • PyTorch • TensorFlow • OpenCV • Linux • Docker • ROS • OpenCV • Linux • Docker • ROS • MatLab • Scikit-Learn
 
 Featured Projects:
 - RoboSub Computer Vision
